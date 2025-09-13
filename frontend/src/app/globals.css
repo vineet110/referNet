@@ -1,0 +1,9 @@
+/* postcss-ignore */
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1A73E8;
+  --color-secondary: #00B894;
+  --color-dark: #1F2937;
+  --color-light: #F9FAFB;
+}
